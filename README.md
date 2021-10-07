@@ -8,4 +8,5 @@
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
- 1  | Thu, Sept 10, 2020 14:00 UTC       | [agenda](https://github.com/LeagueDAO/LeagueDAO-PM/issues/1) \| [notes]()     | [video](https://youtu.be/wbV5i53Z6oo) |
+ 1  | Thu, Sept 10, 2021 14:00 UTC       | [agenda](https://github.com/LeagueDAO/LeagueDAO-PM/issues/1) \| [notes]()     | [video](https://youtu.be/wbV5i53Z6oo) |
+ 2  | Thu, October 8, 2021 14:00 UTC  
