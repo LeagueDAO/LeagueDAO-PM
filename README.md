@@ -3,6 +3,9 @@
 ## **Resources**
 ### [Whitepaper](https://medium.com/leaguedao/leaguedao-white-paper-a3dbf82050f7) / [Discord](https://discord.gg/leaguedao)
 
+## **Documentation**
+### Nomo
+### CryptoFantasy
 
 ## Previous LeagueDAO Project Calls
 
